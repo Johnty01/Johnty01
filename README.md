@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Johnty01/Johnty01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 4 years of experience. I started with Java. I self-taught myself Java and then migrated to Spring, Golang, JavaScript, and React. I've had the experience of working for MNC's and startups. Throughtout my career I primarily worked in fintech domain.
 
-Here are some ideas to get you started:
+    👯 I’m looking to collaborate on NodeJs, Golang and Java Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on ... DBAT Axis - Bank projects
+- 🌱 I’m currently learning(exploring depths) ... MERN stack
+- 👯 I’m looking to collaborate on ... Golang, Java and Node JS projects
+- 🤔 I’m looking for help with ... mentoring, hiring etc.
+- 💬 Ask me about ... https://in.linkedin.com/in/vibhusharma070
+- 📫 How to reach me: ... vibhu1apr@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am chess player with 99.9 percentile in Rapid section at chess.com
+    https://www.chess.com/member/van_hohenhiem
 -->
