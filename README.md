@@ -5,7 +5,8 @@ I'm a software developer with 4 years of experience. I started with Java. I self
     👯 I’m looking to collaborate on NodeJs, Golang and Java Projects.
 
 
-- 🔭 I’m currently working on ... DBAT Axis - Bank projects
+- 🔭 I’m currently working on ... Nielsen - Adintel Business
+- 🔭 I have worked on ... DBAT Axis - Bank projects, which is the third largest private bank in India.
 - 🌱 I’m currently learning(exploring depths) ... MERN stack
 - 👯 I’m looking to collaborate on ... Golang, Java and Node JS projects
 - 🤔 I’m looking for help with ... mentoring, hiring etc.
