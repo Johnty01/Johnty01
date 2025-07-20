@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer with 4 years of experience. I started with Java. I self-taught myself Java and then migrated to Spring, Golang, JavaScript, and React. I've had the experience of working for MNC's and startups. Throughtout my career I primarily worked in fintech domain.
+I'm a software developer with 6 years of experience. I started with Java. I self-taught myself Java and then migrated to Spring, Golang, JavaScript, and React. I've had the experience of working for MNC's and startups. Throughtout my career I primarily worked in fintech domain.
 
     👯 I’m looking to collaborate on NodeJs, Golang and Java Projects.
 
